@@ -1,0 +1,6 @@
+{
+  "name": "Animal Movement Tracker",
+  "description": "An IoT-based animal movement tracking and health analytics mobile app featuring a live interactive map, movement playback, geofencing, weather warnings, and livestock diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
